@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./walteriabbatisd00messgoog_0004.png"; bbox 0 0 3100 5192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 128 1774 1064 1986">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 128 1774 1064 1986">
+     <span class='ocr_line' id='line_1_1' title="bbox 128 1774 1064 1986; baseline -0.004 -28"><span class='ocrx_word' id='word_1_1' title='bbox 128 1951 132 1958; x_wconf 85' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 338 1774 362 1820; x_wconf 57' lang='lat'><strong>⁹</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 492 1854 1064 1986; x_wconf 74' lang='lat' dir='ltr'>PUBLIOATIONS‚›0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 119 2212 1083 2376">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 119 2212 1083 2383">
+     <span class='ocr_line' id='line_1_2' title="bbox 119 2212 1083 2376; baseline 0.001 -57"><span class='ocrx_word' id='word_1_4' title='bbox 119 2248 124 2294; x_wconf 69' lang='lat'>2</span> <span class='ocrx_word' id='word_1_5' title='bbox 390 2212 702 2376; x_wconf 71' lang='grc' dir='ltr'>ςΑΧΤοΝ</span> <span class='ocrx_word' id='word_1_6' title='bbox 739 2212 1083 2332; x_wconf 68' lang='lat' dir='ltr'><strong>socfflw.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 655 2449 829 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 655 2449 829 2471">
+     <span class='ocr_line' id='line_1_3' title="bbox 655 2449 829 2471; baseline 0.011 -2"><span class='ocrx_word' id='word_1_7' title='bbox 655 2449 829 2471; x_wconf 71' lang='lat' dir='ltr'><strong>——b--a</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 96 2589 1262 2677">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 96 2589 1262 2677">
+     <span class='ocr_line' id='line_1_4' title="bbox 96 2589 1262 2677; baseline -0.003 -19"><span class='ocrx_word' id='word_1_8' title='bbox 96 2627 104 2640; x_wconf 49' lang='grc' dir='ltr'>υ</span> <span class='ocrx_word' id='word_1_9' title='bbox 212 2600 244 2661; x_wconf 88' lang='lat'><strong>6.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 259 2590 479 2660; x_wconf 87' lang='lat' dir='ltr'><strong>WALTERI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 502 2589 701 2656; x_wconf 90' lang='lat' dir='ltr'>ABBATIS</span> <span class='ocrx_word' id='word_1_12' title='bbox 724 2589 990 2677; x_wconf 82' lang='lat' dir='ltr'><strong>DERVENSIS</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1015 2589 1262 2658; x_wconf 83' lang='lat' dir='ltr'><strong>EPISTOLAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 647 2795 820 2815">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 647 2795 820 2815">
+     <span class='ocr_line' id='line_1_5' title="bbox 647 2795 820 2815; baseline 0.006 -1"><span class='ocrx_word' id='word_1_14' title='bbox 647 2795 820 2815; x_wconf 66' lang='lat' dir='ltr'>unuh—-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1554 5192">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1554 5192">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1554 5192; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1554 5192; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
